@@ -24,8 +24,8 @@ The content document lists the text and image content that should be displayed i
 
 There are different sets of characters to denote certain features:
 
-- `[]` — denotes a link, means the text inside should be clickable.
-- `{}` — denotes that an image should be placed in that location, and what image.
+- `[]` — denotes a link, means the text inside should be clickable.
+- `{}` — denotes that an image should be placed in that location, and what image.
 - `---` — denotes a grouping of content.
 
 **The brackets should be removed when putting the content in the HTML file—they are only there to help you understand the features of the content.**
